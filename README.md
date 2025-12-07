@@ -239,3 +239,7 @@ Have questions? Found a bug? Want to contribute? **[Join our Discord!](https://d
 > Only test apps you own or have permission to test. You are responsible for using Strix ethically and legally.
 
 </div>
+# rec-praxis-action
+
+This repository uses [rec-praxis-action](https://github.com/jmanhype/rec-praxis-action) for AI-powered security scanning.
+
